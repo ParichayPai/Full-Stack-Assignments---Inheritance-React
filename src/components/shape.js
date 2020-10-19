@@ -1,6 +1,6 @@
 // declare class
 class Shape {
-  color = null;
+  // color = null;
   constructor(color) {
     this.color = color;
   }
